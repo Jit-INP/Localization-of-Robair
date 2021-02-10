@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tsotne/catkin_ws/install/setup.sh
